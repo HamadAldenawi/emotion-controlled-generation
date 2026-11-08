@@ -1,0 +1,16 @@
+{
+  "judge_accuracy_on_test": 0.829,
+  "control_accuracy_per_label": {
+    "sadness": 0.8,
+    "joy": 0.8,
+    "love": 0.4,
+    "anger": 0.25,
+    "fear": 0.8,
+    "surprise": 0.15
+  },
+  "control_accuracy_mean": 0.533,
+  "distinct_1": 0.19,
+  "distinct_2": 0.619,
+  "generations_rejected_by_safety_filter": 4,
+  "samples_per_label": 20
+}
